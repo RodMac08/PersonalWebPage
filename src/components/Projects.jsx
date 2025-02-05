@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import AOS from 'aos';
-import { CiCircleChevRight } from "react-icons/ci";
 import 'aos/dist/aos.css';
 import { FaGithub } from "react-icons/fa";
 
