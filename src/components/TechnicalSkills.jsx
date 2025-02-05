@@ -37,7 +37,7 @@ const TechnicalSkills = () => {
           <p data-aos="fade-right" className="font-monts text-base md:text-lg flex items-center justify-center gap-2">
             <CiCircleChevRight data-aos="fade-right" className="text-2xl md:text-2xl"/> Kotlin
           </p>
-          <div data-aos="fade-left" className="flex flex-row flex-wrap justify-center mt-8 gap-4">
+          <div data-aos="fade-left" className="flex flex-row flex-wrap justify-center py-20 mt-8 gap-4">
           <img src="Lenguajes.jpeg" alt="Descripción de la imagen 1" className="rounded-lg w-64 h-46 md:w-72 md:h-27 object-cover shadow-custom mx-auto" />
           </div>
         </div>

@@ -27,7 +27,7 @@ export default {
           'text-shadow': '1px 1px 2px rgba(0, 0, 0, 0.25)',
         },
         '.text-shadow-md': {
-          'text-shadow': '30px 30px 30px rgba(0, 0, 0, 1)',
+          'text-shadow': '2px 2px 2px rgba(254, 243, 199, 1)',
         },
         '.text-shadow-lg': {
           'text-shadow': '2px 2px 2px rgba(89, 54, 34, 1)',

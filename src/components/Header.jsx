@@ -20,7 +20,7 @@ const Header = () => {
         <a href="#Experiences"onClick={(e) => scrollToSection(e, 'Experiences')} className="hover:text-shadow-lg text-secundary transition-all ease-in duration-200">Experiences</a>
         <a href="#Projects"onClick={(e) => scrollToSection(e, 'Projects')} className="hover:text-shadow-lg text-secundary transition-all ease-in duration-200">Projects</a>
         <a href="#SoftSkills"onClick={(e) => scrollToSection(e, 'SoftSkills')} className="hover:text-shadow-lg text-secundary transition-all ease-in duration-200">Soft skills & Hobbies</a>
-        <a href="#TechnicalSkills"onClick={(e) => scrollToSection(e, 'TechnicalSkills')} className="hover:text-shadow-lg text-secundary transition-all ease-in duration-200">Technical skills</a>
+        <a href="#Technical"onClick={(e) => scrollToSection(e, 'Technical')} className="hover:text-shadow-lg text-secundary transition-all ease-in duration-200">Technical skills</a>
       </nav>
       <button onClick={() => setShowMenu(!showMenu)} className="xl:hidden z-50">
         {showMenu ? <IoCloseOutline className="text-secundary" /> : <IoMenu className="text-secundary" />}
